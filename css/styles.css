@@ -1,0 +1,46 @@
+/****************TAG SELECTORS***************************/
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: grey;
+  width: 5%;
+  border-width: 2px;
+  border-style: dotted none none;
+}
+
+h1 {
+  color: #66BFBF
+}
+
+h3 {
+  color: #66BFBF
+}
+
+img {
+  background-color: powderblue;
+  border-width: 5px;
+}
+
+img:hover {
+  background-color: black;
+}
+
+/********************CLASS SELECTORS***********************/
+.somto {
+  border-style: dashed;
+}
+
+.empty {
+  border-style: double;
+}
+
+.circular {
+  border-radius: 10%;
+}
+
+/********************ID SELECTORS***********************/
+#heading {
+  color: yellow;
+}
